@@ -1,0 +1,2 @@
+pushd %{buildroot}%{gem_dir}/gems/open4-1.3.4 && ruby -v -I.:lib:test:test/lib test*/*_test.rb && popd
+
