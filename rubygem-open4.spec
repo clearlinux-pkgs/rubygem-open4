@@ -4,7 +4,7 @@
 #
 Name     : rubygem-open4
 Version  : 1.3.4
-Release  : 3
+Release  : 4
 URL      : https://rubygems.org/downloads/open4-1.3.4.gem
 Source0  : https://rubygems.org/downloads/open4-1.3.4.gem
 Summary  : No detailed summary available
